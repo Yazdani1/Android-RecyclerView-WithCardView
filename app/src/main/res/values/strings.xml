@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Android-RecyclerView-WithCardView</string>
+
+
+    <string-array name="first_name">
+
+        <item>Windos</item>
+        <item>Mac</item>
+        <item>Sony</item>
+        <item>Windos</item>
+        <item>Mac</item>
+        <item>Sony</item>
+        <item>Windos</item>
+        <item>Mac</item>
+        <item>Sony</item>
+        <item>Windos</item>
+        <item>Mac</item>
+        <item>Sony</item>
+        <item>Windos</item>
+        <item>Mac</item>
+        <item>Sony</item>
+
+    </string-array>
+
+
+    <string-array name="last_name">
+
+        <item>Phone</item>
+        <item>Mobile</item>
+        <item>Tablet</item>
+
+        <item>Phone</item>
+        <item>Mobile</item>
+        <item>Tablet</item>
+
+        <item>Phone</item>
+        <item>Mobile</item>
+        <item>Tablet</item>
+
+        <item>Phone</item>
+        <item>Mobile</item>
+        <item>Tablet</item>
+
+        <item>Phone</item>
+        <item>Mobile</item>
+        <item>Tablet</item>
+
+    </string-array>
+
+
+</resources>
